@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is 985A-7082
-
- Directory of C:\Users\august2018\Desktop\MyProject
-
-22-07-2021  01:16    <DIR>          .
-22-07-2021  01:16    <DIR>          ..
-22-07-2021  01:16                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  18,360,311,808 bytes free
+changes 1
